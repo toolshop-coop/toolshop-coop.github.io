@@ -1,0 +1,10 @@
+---
+layout: layouts/home
+---
+<h3 class="font-bold inline">
+  {{page.date | htmlDateString}}
+</h3>&nbsp;·
+<span class="italic">{{author}}</span>
+<article class="mt-8">
+  {{ content|safe }}
+</article>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Toolshop Co-op</title>
+  <subtitle>The Toolshop Cooperative creates design tools in a different way.</subtitle>
+  
+  <link href="https://toolshop-coop.org/feed/feed.xml" rel="self"/>
+  <link href="https://toolshop-coop.org/"/>
+  <updated>2020-09-11T12:37:05-05:00</updated>
+  <id>https://toolshop-coop.org/</id>
+  <author>
+    <name>Toolshop Co-op</name>
+    <email>julius@tarng.com</email>
+  </author>
+    
+    <entry>
+      <title></title>
+      <link href="https://toolshop-coop.org/"/>
+      <updated>2020-09-11T12:37:05-05:00</updated>
+      <id>https://toolshop-coop.org/</id>
+      <content type="html">&lt;p&gt;Welcome to the Toolshop Co-op. We&#39;re a cooperative that creates design tools in a different way. &lt;a href=&quot;https://toolshop-coop.org/essays/meet-toolshop-co-op&quot;&gt;Read more about why we started Toolshop here&lt;/a&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Toolshop Co-log</title>
+      <link href="https://toolshop-coop.org/logs/2020-09-11/"/>
+      <updated>2020-09-11T00:00:00-05:00</updated>
+      <id>https://toolshop-coop.org/logs/2020-09-11/</id>
+      <content type="html">&lt;p&gt;Set up the website today!&lt;/p&gt;
+&lt;p&gt;Waffled for about 4 hours on whether to adopt &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt; or Next.js. Ended up going with Eleventy because Next.js&#39;s trajectory seems to be headed towards robust applications, and I like Eleventy&#39;s focus on static site generation and extensibility. Another criteria as we want to build Toolshop ethically was that the tools and services we choose to adopt should match our morals and ethics. Eleventy&#39;s founder, Zach Leat, shows a lot of care for social justice &amp;amp; inclusion — directly on the Eleventy front page.&lt;/p&gt;
+&lt;p&gt;I also saw a &lt;a href=&quot;https://github.com/binyamin/eleventy-garden&quot;&gt;Wikipedia/Zettelkasten-style backlinking starter project&lt;/a&gt;, which might be useful to reference later.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Meet Toolshop Co-op</title>
+      <link href="https://toolshop-coop.org/essays/meet-toolshop-co-op/"/>
+      <updated>2019-09-11T00:00:00-05:00</updated>
+      <id>https://toolshop-coop.org/essays/meet-toolshop-co-op/</id>
+      <content type="html">&lt;p&gt;Welcome! I&#39;m going to write more stuff here later lmao&lt;/p&gt;
+</content>
+    </entry>
+</feed>

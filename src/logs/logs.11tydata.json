@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/log",
+  "permalink": "logs/{{ page.fileSlug }}/index.html",
+  "tags": "log"
+}

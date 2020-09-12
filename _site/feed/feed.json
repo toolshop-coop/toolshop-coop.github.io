@@ -1,0 +1,31 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Toolshop Co-op",
+  "home_page_url": "https://toolshop-coop.org/",
+  "feed_url": "https://toolshop-coop.org/feed/feed.json",
+  "description": "The Toolshop Cooperative creates design tools in a different way.",
+  "author": {
+    "name": "Toolshop Co-op",
+    "url": "https://toolshop-coop.org/about/"
+  },
+  "items": [{
+      "id": "https://toolshop-coop.org/",
+      "url": "https://toolshop-coop.org/",
+      "title": "",
+      "content_html": "<p>Welcome to the Toolshop Co-op. We're a cooperative that creates design tools in a different way. <a href=\"essays/meet-toolshop-co-op\">Read more about why we started Toolshop here</a></p>\n",
+      "date_published": "2020-09-11T12:37:05-05:00"
+    },{
+      "id": "https://toolshop-coop.org/logs/2020-09-11/",
+      "url": "https://toolshop-coop.org/logs/2020-09-11/",
+      "title": "Toolshop Co-log",
+      "content_html": "<p>Set up the website today!</p>\n<p>Waffled for about 4 hours on whether to adopt <a href=\"https://www.11ty.dev/\">Eleventy</a> or Next.js. Ended up going with Eleventy because Next.js's trajectory seems to be headed towards robust applications, and I like Eleventy's focus on static site generation and extensibility. Another criteria as we want to build Toolshop ethically was that the tools and services we choose to adopt should match our morals and ethics. Eleventy's founder, Zach Leat, shows a lot of care for social justice &amp; inclusion — directly on the Eleventy front page.</p>\n<p>I also saw a <a href=\"https://github.com/binyamin/eleventy-garden\">Wikipedia/Zettelkasten-style backlinking starter project</a>, which might be useful to reference later.</p>\n",
+      "date_published": "2020-09-11T00:00:00-05:00"
+    },{
+      "id": "https://toolshop-coop.org/essays/meet-toolshop-co-op/",
+      "url": "https://toolshop-coop.org/essays/meet-toolshop-co-op/",
+      "title": "Meet Toolshop Co-op",
+      "content_html": "<p>Welcome! I'm going to write more stuff here later lmao</p>\n",
+      "date_published": "2019-09-11T00:00:00-05:00"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+---
+layout: layouts/base
+css: "/css/styles.css"
+---
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-1">
+  <h2 class="text-5xl font-medium tracking-tighter leading-none">
+    {{title or metadata.title}}
+  </h2>
+  <span></span>
+  <span></span>
+
+  <div>
+    {{content | safe}}
+
+    <div class="mt-20">
+      <div>
+        <h3 class="font-bold">
+          Essays
+        </h3>
+        <ul class="mb-4">
+          {%- for entry in collections.essay %}
+            <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
+              <a href="{{ entry.url | url }}">{{ entry.data.title or entry.fileSlug }}</a>
+            </li>
+          {%- endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div>
+      <h3 class="font-bold">
+        Logs
+      </h3>
+      <ul>
+        {%- for entry in collections.log %}
+          <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
+            <a href="{{ entry.url | url }}">{{ entry.fileSlug }}</a>
+          </li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
+
+</div>

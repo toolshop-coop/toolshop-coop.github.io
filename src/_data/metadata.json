@@ -1,0 +1,20 @@
+{
+  "title": "Toolshop Co-op",
+  "url": "https://toolshop-coop.org/",
+  "description": "The Toolshop Cooperative creates design tools in a different way.",
+  "feed": {
+    "subtitle": "The Toolshop Cooperative creates design tools in a different way.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://toolshop-coop.org/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://toolshop-coop.org/feed/feed.json"
+  },
+  "author": {
+    "name": "Toolshop Co-op",
+    "email": "julius@tarng.com",
+    "url": "https://toolshop-coop.org/about/"
+  }
+}

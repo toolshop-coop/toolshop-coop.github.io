@@ -1,0 +1,12 @@
+---
+layout: layouts/home
+eleventyComputed:
+  title: Toolshop Co-log
+---
+<h3 class="font-bold inline">
+  {{page.fileSlug}}
+</h3>&nbsp;·
+<span class="italic">{{author}}</span>
+<article class="mt-8">
+  {{ content|safe }}
+</article>
