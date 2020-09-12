@@ -29,6 +29,10 @@
       <content type="html">&lt;p&gt;Set up the website today!&lt;/p&gt;
 &lt;p&gt;Waffled for about 4 hours on whether to adopt &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt; or Next.js. Ended up going with Eleventy because Next.js&#39;s trajectory seems to be headed towards robust applications, and I like Eleventy&#39;s focus on static site generation and extensibility. Another criteria as we want to build Toolshop ethically was that the tools and services we choose to adopt should match our morals and ethics. Eleventy&#39;s founder, Zach Leat, shows a lot of care for social justice &amp;amp; inclusion — directly on the Eleventy front page.&lt;/p&gt;
 &lt;p&gt;I also saw a &lt;a href=&quot;https://github.com/binyamin/eleventy-garden&quot;&gt;Wikipedia/Zettelkasten-style backlinking starter project&lt;/a&gt;, which might be useful to reference later.&lt;/p&gt;
+&lt;p&gt;I then spent another couple hours figuring out how to use TailwindCSS, which I had heard good things about. I didn&#39;t end up getting it to &lt;a href=&quot;https://github.com/dafiulh/eleventy-plugin-tailwindcss/issues/4&quot;&gt;work perfectly&lt;/a&gt;, and I&#39;m still adjusting to the idea that I can&#39;t just lay down CSS. Not sure if it&#39;s actually the right fit for me, personally, but it could be a good fit in the long term with more contributors to the site.&lt;/p&gt;
+&lt;p&gt;I whipped up a quick design based off some visions I had in my head a few weeks ago — a simple 2 column grid, with tight spacing around the side. I&#39;m not 100% feeling the colors, yet (trying to avoid my go-to of hyperlink blue on white).&lt;/p&gt;
+&lt;p&gt;Also noticed our Twitter account was flagged for suspicious activity, lmao~&lt;/p&gt;
+&lt;p&gt;Not sure if the differentiation between Essays and Logs is clear, but let&#39;s see how it shakes out! Definitely feeling more casual here, logging away.&lt;/p&gt;
 </content>
     </entry>
     

@@ -15,8 +15,12 @@
     "html-minifier": "^4.0.0",
     "luxon": "^1.25.0",
     "markdown-it": "^11.0.0",
-    "markdown-it-anchor": "^5.3.0"
+    "markdown-it-anchor": "^5.3.0",
+    "pre-commit": "^1.2.2"
   },
+  "pre-commit": [
+    "build"
+  ],
   "scripts": {
     "clean": "rimraf _site",
     "build": "npm run clean && NODE_ENV=production npx @11ty/eleventy",
