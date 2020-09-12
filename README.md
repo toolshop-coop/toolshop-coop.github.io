@@ -7,6 +7,12 @@ yarn start
 ```
 The site will be available at [localhost:8080](localhost:8080).
 
+When you're ready to push, make sure to run 
+```
+yarn build
+```
+which will minify TailwindCSS. TODO: move to Github Actions
+
 ## Editing site content
 ### Static Page (e.g. Home, About)
 Just create a `md` or `njk` file in `src`, or create a folder in `src` with an `index.md`/`index.njk` inside, useful if you want to group things together, like a `*.11tydata.json` file.
